@@ -99,8 +99,9 @@ header {
 	float: left;
 	}
 .summary p {
-	font: italic 3em/2.2 georgia; 
+	font: italic 1.2em/2.2 georgia; 
 	text-align: center;
+	color: red;
 	}
 
 .preamble {
