@@ -10,4 +10,5 @@ div.center {
 
 h1 {
     background: url(https://soft-holder.net/wp-content/uploads/2018/10/picture-for-header-ko-background-header.jpg) ;
+    background-size: width="150" height="50";
 }
