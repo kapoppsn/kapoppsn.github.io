@@ -10,4 +10,6 @@ div.center {
 
 h1{
     background-image: url(https://images.unsplash.com/photo-1532469342119-c1ac6eb66912?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80);
+    width: 100%;
+    height: 500px;
 }
