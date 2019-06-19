@@ -9,8 +9,12 @@ div.center {
 }
 
 div.container{
+    text-align : center;
     background-color: #e3e3e3;
-    column-fill: 100%;
+    max-width: 100em;
     padding: 1cm;
     margin-top: -0.5em;
+}
+h6{
+    color: #1b335f;
 }
