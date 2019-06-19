@@ -1,17 +1,16 @@
 ﻿body
 {
-    background-color : #fff8a6;
+    background-color: white;
 }
 
 div.center {
     text-align : center;
-    color : white;
+    color : black;
 }
 
-h1{
-    background-image: url(https://scontent.fbkk23-1.fna.fbcdn.net/v/t1.0-9/64982992_2343764972312114_5844086592926384128_n.jpg?_nc_cat=100&_nc_oc=AQn_edM5mTuFgj9yTCx0cl-EjiB5d8gF9O1J53jgMMfTXZ0Zd9D7d4-VxjEqzbHBm1o&_nc_ht=scontent.fbkk23-1.fna&oh=c11ecdbd7fab82c6377f9d5ca4e531c6&oe=5D87BE2C);
-    background-size: 100%;
-    width: 1000px;
-    height: 450px;
-    background-position-y: -1cm;
+div.container{
+    background-color: #e3e3e3;
+    column-fill: 100%;
+    padding: 1cm;
+    margin-top: -0.5em;
 }
